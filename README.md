@@ -1,2 +1,2 @@
-# miso-modernizaci-n-software
+# miso-modern-software
 Aplicacion de modernización de software
