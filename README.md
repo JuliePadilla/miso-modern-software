@@ -2,7 +2,7 @@
 Un programa de contabilidad que contiene información de empleados, empleadores y registros de las relaciones entre ellos.
 ---
 
-# Propuesta de Proceso de Modernización
+# Propuesta Proceso de Modernización
 
 las funciones que vamos a poner como alcance en las funcionalidades a modernizar son las siguientes:
 
