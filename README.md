@@ -15,8 +15,9 @@ El escenario de modernización que vamos a trabajar para aplicar en la aplicaci�
 
 1. **Ingeniería inversa dirigida por modelos**. El objetivo de este escenario consiste en la extracción y repre-sentación conceptual del conocimiento de la aplicación monolítica. En este sentido, se definen dos líneas diferentes de acción:
    
-  a. **Análisis estáticos y dinámicos**. Su misión consiste en generar consultas a los diferentes formularios que permitan explorar toda la aplicación y extraer información de las mismas. En el caso de apli-caciones desarrolladas con frameworks basados en el patrón MVC, se deben analizar los diferentes artefactos que permiten especificar la vistas, el modelo y los controladores. 
-  b. **Minería de datos de los registros de ejecución de la aplicación**. Su misión consiste en encontrar información que pueda apoyar decisiones de diseño posteriores dentro del proceso de modernización, como por ejemplo, qué datos o qué lógica de negocio puede moverse a cliente y de qué forma, también como se puede desacoplar las dependencia de los datos y objetos entre sí. 
+a. **Análisis estáticos y dinámicos**. Su misión consiste en generar consultas a los diferentes formularios que permitan explorar toda la aplicación y extraer información de las mismas. En el caso de apli-caciones desarrolladas con frameworks basados en el patrón MVC, se deben analizar los diferentes artefactos que permiten especificar la vistas, el modelo y los controladores. 
+  
+b. **Minería de datos de los registros de ejecución de la aplicación**. Su misión consiste en encontrar información que pueda apoyar decisiones de diseño posteriores dentro del proceso de modernización, como por ejemplo, qué datos o qué lógica de negocio puede moverse a cliente y de qué forma, también como se puede desacoplar las dependencia de los datos y objetos entre sí. 
 
 ---
 # v1 branch
